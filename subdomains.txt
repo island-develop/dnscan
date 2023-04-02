@@ -779,3 +779,6 @@ xml
 zabbix
 zeus
 zimbra
+gift
+class
+learn
